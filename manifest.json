@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started Example",
+  "name": "Adobe Font Information Extension",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Hover over a font on a Squarespace site to see information about the font.",
   "manifest_version": 2
 }
